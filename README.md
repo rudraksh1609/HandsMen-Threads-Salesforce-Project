@@ -20,16 +20,16 @@ This project enhances customer relations while also making internal operations m
 
 ### 1. Automated Order Confirmations  
 Customers receive a confirmation email immediately after placing an order.  
-![Order Confirmation](./screenshots/OrderConfirmation.png)  
+![Order Confirmation](./Screenshots/OrderConfirmation.png)  
 
 ### 2. Dynamic Loyalty Program  
 Loyalty statuses are automatically updated based on purchase history.  
-![Loyalty Program](./screenshots/LoyaltyProgram.png)  
-![Loyalty Program Flow](./screenshots/LoyaltyProgramFlow.png)  
+![Loyalty Program](./Screenshots/LoyaltyProgram.png)  
+![Loyalty Program Flow](./Screenshots/LoyaltyProgramFlow.png)  
 
 ### 3. Proactive Low Stock Alerts  
 When product stock drops below 5 units, warehouse staff are notified via email.  
-![Low Stock Alert](./screenshots/LowStockAlert.png)  
+![Low Stock Alert](./Screenshots/LowStockAlert.png)  
 
 ### 4. Scheduled Bulk Order Updates  
 At midnight, the system processes all bulk orders and updates financial & inventory records.  
@@ -41,15 +41,15 @@ At midnight, the system processes all bulk orders and updates financial & invent
 Through this project, I worked on:  
 
 - **Data Modeling** (Objects, Fields, Relationships, ERDs)  
-![Handsmen Order Sample Data](./screenshots/HandsmenOrderSampleData.png)  
-![Handsmen Customer Sample Data](./screenshots/HandsmenCustomerSampleData.png)  
+![Handsmen Order Sample Data](./Screenshots/HandsmenOrderSampleData.png)  
+![Handsmen Customer Sample Data](./Screenshots/HandsmenCustomerSampleData.png)  
 
 - **Data Quality** (Validation rules, consistency checks)  
 - **Lightning App Builder** (UI customization)  
 - **Record-Triggered Flows** (automation without code)  
 - **Apex & Apex Triggers** (custom business logic)  
 - **Asynchronous Apex** (batch jobs and scheduled jobs)  
-![Handsmen Threads](./screenshots/HandsmenThreads.png)  
+![Handsmen Threads](./Screenshots/HandsmenThreads.png)  
 
 ---
 
