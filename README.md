@@ -20,16 +20,16 @@ This project enhances customer relations while also making internal operations m
 
 ### 1. Automated Order Confirmations  
 Customers receive a confirmation email immediately after placing an order.  
-![Order Confirmation](./screenshots/Order%20Confirmation.png)  
+![Order Confirmation](./screenshots/OrderConfirmation.png)  
 
 ### 2. Dynamic Loyalty Program  
 Loyalty statuses are automatically updated based on purchase history.  
-![Loyalty Program](./screenshots/Loyalty%20Program.png)  
-![Loyalty Program Flow](./screenshots/Loyalty%20Program%20Flow.png)  
+![Loyalty Program](./screenshots/LoyaltyProgram.png)  
+![Loyalty Program Flow](./screenshots/LoyaltyProgramFlow.png)  
 
 ### 3. Proactive Low Stock Alerts  
 When product stock drops below 5 units, warehouse staff are notified via email.  
-![Low Stock Alert](./screenshots/Low%20Stock%20Alert.png)  
+![Low Stock Alert](./screenshots/LowStockAlert.png)  
 
 ### 4. Scheduled Bulk Order Updates  
 At midnight, the system processes all bulk orders and updates financial & inventory records.  
@@ -41,8 +41,8 @@ At midnight, the system processes all bulk orders and updates financial & invent
 Through this project, I worked on:  
 
 - **Data Modeling** (Objects, Fields, Relationships, ERDs)  
-![Handsmen Order Sample Data](./screenshots/Handsmen%20Order%20Sample%20Data.png)  
-![Handsmen Customer Sample Data](./screenshots/HandsmenCustomer%20Sample%20Data.png)  
+![Handsmen Order Sample Data](./screenshots/HandsmenOrderSampleData.png)  
+![Handsmen Customer Sample Data](./screenshots/HandsmenCustomerSampleData.png)  
 
 - **Data Quality** (Validation rules, consistency checks)  
 - **Lightning App Builder** (UI customization)  
